@@ -1,0 +1,251 @@
+fecha,sentimiento,aspecto,comentario,calificacion
+2025-11-08,positivo,tiempo de espera,"La tiempo de espera estuvo excelente, definitivamente volveré. (menciona: fila)",4
+2025-11-05,positivo,ambiente,"Muy buena ambiente, vale totalmente la pena. (menciona: música)",4
+2025-11-05,neutral,tiempo de espera,"La tiempo de espera estuvo bien, nada fuera de lo normal. (menciona: fila)",3
+2025-11-05,negativo,comida,"La comida dejó mucho que desear, no volvería. (menciona: sabor)",2
+2025-11-14,positivo,comida,"La comida estuvo excelente, definitivamente volveré. (menciona: porciones)",5
+2025-11-09,negativo,servicio,"Muy mala servicio, me fui con mal sabor de boca. (menciona: amable)",1
+2025-11-04,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: sabor)",3
+2025-11-08,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: sabor),4
+2025-11-06,positivo,comida,"La comida estuvo excelente, definitivamente volveré. (menciona: porciones)",5
+2025-11-01,positivo,servicio,Me encantó la servicio; superó mis expectativas. (menciona: rápido),5
+2025-11-03,positivo,ambiente,"La ambiente fue de primera, gran experiencia. (menciona: música)",4
+2025-11-07,positivo,comida,"La comida fue de primera, gran experiencia. (menciona: porciones)",4
+2025-11-14,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: sabor)",4
+2025-11-05,positivo,servicio,Me encantó la servicio; superó mis expectativas. (menciona: rápido),4
+2025-11-04,positivo,servicio,"La servicio fue de primera, gran experiencia. (menciona: atento)",5
+2025-11-06,positivo,ambiente,"Muy buena ambiente, vale totalmente la pena. (menciona: música)",5
+2025-11-04,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: tardado),5
+2025-11-04,positivo,comida,"La comida estuvo excelente, definitivamente volveré. (menciona: sabor)",5
+2025-11-05,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: sabor)",3
+2025-11-02,positivo,servicio,"Muy buena servicio, vale totalmente la pena. (menciona: atento)",5
+2025-11-09,neutral,servicio,"La servicio estuvo regular, cumplió sin destacar. (menciona: atento)",3
+2025-11-02,positivo,ambiente,"La ambiente estuvo excelente, definitivamente volveré. (menciona: decoración)",4
+2025-11-02,positivo,ambiente,"La ambiente fue de primera, gran experiencia. (menciona: decoración)",5
+2025-11-06,positivo,servicio,"La servicio estuvo excelente, definitivamente volveré. (menciona: atento)",4
+2025-11-09,positivo,servicio,"La servicio estuvo excelente, definitivamente volveré. (menciona: rápido)",4
+2025-11-06,positivo,servicio,"Muy buena servicio, vale totalmente la pena. (menciona: rápido)",4
+2025-11-05,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: porciones)",4
+2025-11-04,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: rápido),5
+2025-11-04,neutral,ambiente,"La ambiente estuvo bien, nada fuera de lo normal. (menciona: música)",3
+2025-11-11,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: presentación),5
+2025-11-07,neutral,ambiente,"La ambiente estuvo bien, nada fuera de lo normal. (menciona: música)",3
+2025-11-04,positivo,comida,"La comida estuvo excelente, definitivamente volveré. (menciona: presentación)",4
+2025-11-03,positivo,precio,"Muy buena precio, vale totalmente la pena. (menciona: barato)",5
+2025-11-08,positivo,limpieza,"Muy buena limpieza, vale totalmente la pena. (menciona: higiene)",5
+2025-11-11,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: presentación)",4
+2025-11-10,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: porciones),4
+2025-11-03,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: porciones)",5
+2025-11-04,positivo,servicio,"La servicio estuvo excelente, definitivamente volveré. (menciona: rápido)",5
+2025-11-04,negativo,comida,"La comida dejó mucho que desear, no volvería. (menciona: sabor)",1
+2025-11-05,negativo,tiempo de espera,"La tiempo de espera dejó mucho que desear, no volvería. (menciona: rápido)",2
+2025-11-09,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: sabor),5
+2025-11-13,negativo,precio,"Muy mala precio, me fui con mal sabor de boca. (menciona: barato)",2
+2025-11-07,positivo,ambiente,"Muy buena ambiente, vale totalmente la pena. (menciona: decoración)",4
+2025-11-03,positivo,servicio,Me encantó la servicio; superó mis expectativas. (menciona: rápido),5
+2025-11-05,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: sabor)",5
+2025-11-14,positivo,precio,Me encantó la precio; superó mis expectativas. (menciona: caro),4
+2025-11-06,positivo,servicio,"Muy buena servicio, vale totalmente la pena. (menciona: atento)",4
+2025-11-04,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: sabor)",4
+2025-11-05,negativo,servicio,"La servicio fue decepcionante, no lo recomendaría. (menciona: rápido)",2
+2025-11-07,positivo,ambiente,"Muy buena ambiente, vale totalmente la pena. (menciona: música)",5
+2025-11-03,neutral,servicio,"La servicio estuvo regular, cumplió sin destacar. (menciona: atento)",3
+2025-11-04,positivo,servicio,"La servicio fue de primera, gran experiencia. (menciona: rápido)",5
+2025-11-10,negativo,limpieza,"Muy mala limpieza, me fui con mal sabor de boca. (menciona: higiene)",1
+2025-11-07,neutral,limpieza,"La limpieza fue aceptable, podría mejorar. (menciona: higiene)",3
+2025-11-06,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: porciones),5
+2025-11-10,neutral,tiempo de espera,"La tiempo de espera estuvo regular, cumplió sin destacar. (menciona: rápido)",3
+2025-11-03,positivo,ambiente,"Muy buena ambiente, vale totalmente la pena. (menciona: decoración)",4
+2025-11-04,positivo,comida,"La comida fue de primera, gran experiencia. (menciona: porciones)",5
+2025-11-07,neutral,servicio,"La servicio fue aceptable, podría mejorar. (menciona: atento)",3
+2025-11-07,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: fila),4
+2025-11-02,negativo,servicio,"La servicio dejó mucho que desear, no volvería. (menciona: atento)",1
+2025-11-04,positivo,servicio,"La servicio estuvo excelente, definitivamente volveré. (menciona: amable)",5
+2025-11-05,positivo,comida,"La comida estuvo excelente, definitivamente volveré. (menciona: sabor)",5
+2025-11-07,positivo,servicio,Me encantó la servicio; superó mis expectativas. (menciona: rápido),5
+2025-11-07,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: porciones)",3
+2025-11-05,negativo,precio,"La precio fue decepcionante, no lo recomendaría. (menciona: barato)",1
+2025-11-01,positivo,ambiente,"La ambiente fue de primera, gran experiencia. (menciona: decoración)",5
+2025-11-05,positivo,tiempo de espera,"La tiempo de espera fue de primera, gran experiencia. (menciona: rápido)",5
+2025-11-06,positivo,servicio,"Muy buena servicio, vale totalmente la pena. (menciona: rápido)",4
+2025-11-22,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: porciones)",3
+2025-11-05,neutral,ambiente,"La ambiente estuvo regular, cumplió sin destacar. (menciona: música)",3
+2025-11-07,negativo,servicio,"La servicio dejó mucho que desear, no volvería. (menciona: rápido)",2
+2025-11-11,positivo,tiempo de espera,"Muy buena tiempo de espera, vale totalmente la pena. (menciona: rápido)",4
+2025-11-09,positivo,ambiente,"Muy buena ambiente, vale totalmente la pena. (menciona: música)",4
+2025-11-13,positivo,ambiente,"Muy buena ambiente, vale totalmente la pena. (menciona: ruido)",5
+2025-11-02,neutral,ambiente,"La ambiente estuvo bien, nada fuera de lo normal. (menciona: ruido)",3
+2025-11-03,positivo,comida,"La comida estuvo excelente, definitivamente volveré. (menciona: porciones)",4
+2025-11-04,positivo,tiempo de espera,"Muy buena tiempo de espera, vale totalmente la pena. (menciona: rápido)",5
+2025-11-02,positivo,servicio,Me encantó la servicio; superó mis expectativas. (menciona: rápido),5
+2025-11-06,positivo,precio,"La precio estuvo excelente, definitivamente volveré. (menciona: calidad-precio)",5
+2025-11-03,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: porciones)",3
+2025-11-14,negativo,limpieza,"La limpieza dejó mucho que desear, no volvería. (menciona: mesas)",2
+2025-11-03,neutral,limpieza,"La limpieza estuvo bien, nada fuera de lo normal. (menciona: higiene)",3
+2025-11-04,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: sabor)",3
+2025-11-09,neutral,precio,"La precio estuvo regular, cumplió sin destacar. (menciona: calidad-precio)",3
+2025-11-02,positivo,ambiente,"La ambiente estuvo excelente, definitivamente volveré. (menciona: decoración)",5
+2025-11-02,negativo,servicio,"Muy mala servicio, me fui con mal sabor de boca. (menciona: atento)",1
+2025-11-06,negativo,tiempo de espera,"La tiempo de espera fue decepcionante, no lo recomendaría. (menciona: fila)",1
+2025-11-07,negativo,tiempo de espera,"Muy mala tiempo de espera, me fui con mal sabor de boca. (menciona: tardado)",2
+2025-11-09,neutral,servicio,"La servicio estuvo bien, nada fuera de lo normal. (menciona: amable)",3
+2025-11-08,positivo,servicio,Me encantó la servicio; superó mis expectativas. (menciona: rápido),5
+2025-11-07,positivo,servicio,"La servicio estuvo excelente, definitivamente volveré. (menciona: amable)",4
+2025-11-03,positivo,tiempo de espera,"La tiempo de espera fue de primera, gran experiencia. (menciona: fila)",4
+2025-11-06,positivo,ambiente,Me encantó la ambiente; superó mis expectativas. (menciona: música),5
+2025-11-07,positivo,servicio,"La servicio fue de primera, gran experiencia. (menciona: rápido)",4
+2025-11-03,positivo,servicio,Me encantó la servicio; superó mis expectativas. (menciona: atento),5
+2025-11-17,negativo,servicio,"La servicio dejó mucho que desear, no volvería. (menciona: rápido)",2
+2025-11-08,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: sabor)",3
+2025-11-03,neutral,comida,"La comida estuvo regular, cumplió sin destacar. (menciona: porciones)",3
+2025-11-09,negativo,comida,"La comida dejó mucho que desear, no volvería. (menciona: sabor)",1
+2025-11-10,positivo,limpieza,"Muy buena limpieza, vale totalmente la pena. (menciona: orden)",5
+2025-11-07,neutral,comida,"La comida estuvo regular, cumplió sin destacar. (menciona: porciones)",3
+2025-11-05,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: presentación)",3
+2025-11-03,negativo,comida,"La comida dejó mucho que desear, no volvería. (menciona: presentación)",1
+2025-11-05,positivo,servicio,"La servicio estuvo excelente, definitivamente volveré. (menciona: amable)",5
+2025-11-07,positivo,ambiente,Me encantó la ambiente; superó mis expectativas. (menciona: música),5
+2025-11-06,positivo,servicio,"Muy buena servicio, vale totalmente la pena. (menciona: amable)",5
+2025-11-14,neutral,comida,"La comida estuvo regular, cumplió sin destacar. (menciona: porciones)",3
+2025-11-08,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: rápido),5
+2025-11-03,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: sabor),5
+2025-11-02,positivo,comida,"La comida estuvo excelente, definitivamente volveré. (menciona: porciones)",4
+2025-11-08,neutral,ambiente,"La ambiente estuvo regular, cumplió sin destacar. (menciona: música)",3
+2025-11-05,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: sabor),4
+2025-11-09,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: presentación)",3
+2025-11-08,positivo,ambiente,"La ambiente estuvo excelente, definitivamente volveré. (menciona: decoración)",4
+2025-11-05,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: presentación)",3
+2025-11-03,positivo,comida,"La comida fue de primera, gran experiencia. (menciona: sabor)",5
+2025-11-02,negativo,tiempo de espera,"La tiempo de espera dejó mucho que desear, no volvería. (menciona: fila)",1
+2025-11-06,neutral,comida,"La comida estuvo regular, cumplió sin destacar. (menciona: porciones)",3
+2025-11-02,positivo,tiempo de espera,"La tiempo de espera fue de primera, gran experiencia. (menciona: fila)",4
+2025-11-03,positivo,comida,"La comida fue de primera, gran experiencia. (menciona: presentación)",4
+2025-11-06,positivo,precio,Me encantó la precio; superó mis expectativas. (menciona: caro),5
+2025-11-06,negativo,tiempo de espera,"La tiempo de espera fue decepcionante, no lo recomendaría. (menciona: rápido)",1
+2025-11-02,positivo,servicio,"La servicio fue de primera, gran experiencia. (menciona: atento)",5
+2025-11-11,positivo,precio,"La precio fue de primera, gran experiencia. (menciona: barato)",5
+2025-11-11,neutral,servicio,"La servicio fue aceptable, podría mejorar. (menciona: rápido)",3
+2025-11-08,positivo,limpieza,"La limpieza estuvo excelente, definitivamente volveré. (menciona: mesas)",5
+2025-11-08,positivo,tiempo de espera,"La tiempo de espera estuvo excelente, definitivamente volveré. (menciona: fila)",5
+2025-11-08,negativo,ambiente,"Muy mala ambiente, me fui con mal sabor de boca. (menciona: decoración)",1
+2025-11-10,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: sabor)",5
+2025-11-08,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: sabor)",3
+2025-11-03,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: rápido),5
+2025-11-05,positivo,comida,"La comida fue de primera, gran experiencia. (menciona: sabor)",4
+2025-11-21,positivo,tiempo de espera,"La tiempo de espera fue de primera, gran experiencia. (menciona: fila)",4
+2025-11-01,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: presentación)",3
+2025-11-04,neutral,ambiente,"La ambiente estuvo bien, nada fuera de lo normal. (menciona: música)",3
+2025-11-11,negativo,comida,"Muy mala comida, me fui con mal sabor de boca. (menciona: porciones)",1
+2025-11-03,positivo,tiempo de espera,"La tiempo de espera estuvo excelente, definitivamente volveré. (menciona: fila)",5
+2025-11-09,neutral,precio,"La precio estuvo regular, cumplió sin destacar. (menciona: calidad-precio)",3
+2025-11-06,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: sabor)",3
+2025-11-03,negativo,servicio,"La servicio fue decepcionante, no lo recomendaría. (menciona: amable)",1
+2025-11-01,positivo,comida,"La comida fue de primera, gran experiencia. (menciona: presentación)",4
+2025-11-06,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: sabor)",3
+2025-11-03,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: sabor)",3
+2025-11-05,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: presentación),4
+2025-11-08,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: presentación)",3
+2025-11-10,neutral,servicio,"La servicio fue aceptable, podría mejorar. (menciona: atento)",3
+2025-11-04,neutral,limpieza,"La limpieza fue aceptable, podría mejorar. (menciona: orden)",3
+2025-11-03,neutral,comida,"La comida estuvo regular, cumplió sin destacar. (menciona: porciones)",3
+2025-11-02,positivo,comida,"La comida fue de primera, gran experiencia. (menciona: sabor)",5
+2025-11-10,positivo,servicio,Me encantó la servicio; superó mis expectativas. (menciona: atento),5
+2025-11-19,positivo,ambiente,Me encantó la ambiente; superó mis expectativas. (menciona: música),4
+2025-11-11,positivo,ambiente,"La ambiente estuvo excelente, definitivamente volveré. (menciona: decoración)",5
+2025-11-12,neutral,servicio,"La servicio fue aceptable, podría mejorar. (menciona: amable)",3
+2025-11-03,positivo,tiempo de espera,"La tiempo de espera estuvo excelente, definitivamente volveré. (menciona: rápido)",5
+2025-11-07,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: porciones)",3
+2025-11-09,neutral,servicio,"La servicio estuvo regular, cumplió sin destacar. (menciona: amable)",3
+2025-11-02,positivo,tiempo de espera,"La tiempo de espera estuvo excelente, definitivamente volveré. (menciona: rápido)",4
+2025-11-15,negativo,servicio,"La servicio fue decepcionante, no lo recomendaría. (menciona: amable)",1
+2025-11-02,positivo,tiempo de espera,"La tiempo de espera estuvo excelente, definitivamente volveré. (menciona: rápido)",5
+2025-11-13,negativo,ambiente,"La ambiente fue decepcionante, no lo recomendaría. (menciona: decoración)",2
+2025-11-02,negativo,comida,"La comida fue decepcionante, no lo recomendaría. (menciona: presentación)",1
+2025-11-03,positivo,limpieza,"La limpieza estuvo excelente, definitivamente volveré. (menciona: mesas)",5
+2025-11-08,positivo,ambiente,Me encantó la ambiente; superó mis expectativas. (menciona: decoración),5
+2025-11-06,positivo,precio,"La precio estuvo excelente, definitivamente volveré. (menciona: calidad-precio)",5
+2025-11-04,positivo,ambiente,"La ambiente estuvo excelente, definitivamente volveré. (menciona: ruido)",4
+2025-11-15,negativo,limpieza,"La limpieza dejó mucho que desear, no volvería. (menciona: mesas)",2
+2025-11-02,positivo,tiempo de espera,"Muy buena tiempo de espera, vale totalmente la pena. (menciona: tardado)",5
+2025-11-05,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: rápido),4
+2025-11-08,neutral,comida,"La comida estuvo regular, cumplió sin destacar. (menciona: presentación)",3
+2025-11-07,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: presentación),5
+2025-11-03,positivo,ambiente,"La ambiente fue de primera, gran experiencia. (menciona: música)",4
+2025-11-04,positivo,servicio,"Muy buena servicio, vale totalmente la pena. (menciona: atento)",5
+2025-11-10,positivo,precio,"Muy buena precio, vale totalmente la pena. (menciona: caro)",5
+2025-11-10,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: presentación)",3
+2025-11-07,positivo,tiempo de espera,"La tiempo de espera estuvo excelente, definitivamente volveré. (menciona: fila)",4
+2025-11-03,negativo,servicio,"La servicio dejó mucho que desear, no volvería. (menciona: amable)",2
+2025-11-04,negativo,limpieza,"La limpieza dejó mucho que desear, no volvería. (menciona: orden)",1
+2025-11-05,negativo,servicio,"La servicio fue decepcionante, no lo recomendaría. (menciona: atento)",1
+2025-11-06,neutral,tiempo de espera,"La tiempo de espera estuvo bien, nada fuera de lo normal. (menciona: fila)",3
+2025-11-08,negativo,ambiente,"Muy mala ambiente, me fui con mal sabor de boca. (menciona: ruido)",1
+2025-11-05,positivo,ambiente,Me encantó la ambiente; superó mis expectativas. (menciona: ruido),4
+2025-11-09,positivo,servicio,"Muy buena servicio, vale totalmente la pena. (menciona: rápido)",4
+2025-11-09,positivo,comida,"La comida estuvo excelente, definitivamente volveré. (menciona: porciones)",4
+2025-11-12,positivo,limpieza,"Muy buena limpieza, vale totalmente la pena. (menciona: mesas)",5
+2025-11-06,positivo,ambiente,"La ambiente estuvo excelente, definitivamente volveré. (menciona: música)",4
+2025-11-07,negativo,ambiente,"Muy mala ambiente, me fui con mal sabor de boca. (menciona: música)",1
+2025-11-05,positivo,tiempo de espera,"La tiempo de espera estuvo excelente, definitivamente volveré. (menciona: rápido)",5
+2025-11-03,positivo,precio,Me encantó la precio; superó mis expectativas. (menciona: barato),4
+2025-11-19,negativo,comida,"Muy mala comida, me fui con mal sabor de boca. (menciona: porciones)",2
+2025-11-11,neutral,precio,"La precio estuvo bien, nada fuera de lo normal. (menciona: calidad-precio)",3
+2025-11-09,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: sabor)",4
+2025-11-05,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: porciones)",5
+2025-11-03,positivo,comida,"La comida fue de primera, gran experiencia. (menciona: presentación)",5
+2025-11-10,negativo,limpieza,"La limpieza fue decepcionante, no lo recomendaría. (menciona: higiene)",2
+2025-11-05,positivo,servicio,"La servicio fue de primera, gran experiencia. (menciona: atento)",5
+2025-11-07,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: sabor)",3
+2025-11-04,negativo,comida,"Muy mala comida, me fui con mal sabor de boca. (menciona: sabor)",1
+2025-11-07,positivo,precio,"Muy buena precio, vale totalmente la pena. (menciona: caro)",5
+2025-11-04,positivo,tiempo de espera,"La tiempo de espera fue de primera, gran experiencia. (menciona: rápido)",4
+2025-11-04,positivo,tiempo de espera,"La tiempo de espera fue de primera, gran experiencia. (menciona: rápido)",5
+2025-11-06,negativo,tiempo de espera,"La tiempo de espera fue decepcionante, no lo recomendaría. (menciona: fila)",2
+2025-11-02,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: porciones)",3
+2025-11-02,positivo,servicio,Me encantó la servicio; superó mis expectativas. (menciona: rápido),4
+2025-11-03,neutral,servicio,"La servicio estuvo bien, nada fuera de lo normal. (menciona: atento)",3
+2025-11-05,positivo,comida,Me encantó la comida; superó mis expectativas. (menciona: presentación),5
+2025-11-10,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: fila),5
+2025-11-05,positivo,precio,"Muy buena precio, vale totalmente la pena. (menciona: barato)",5
+2025-11-05,positivo,ambiente,"La ambiente estuvo excelente, definitivamente volveré. (menciona: ruido)",5
+2025-11-04,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: rápido),5
+2025-11-07,neutral,tiempo de espera,"La tiempo de espera estuvo bien, nada fuera de lo normal. (menciona: rápido)",3
+2025-11-03,negativo,ambiente,"La ambiente fue decepcionante, no lo recomendaría. (menciona: ruido)",2
+2025-11-05,neutral,ambiente,"La ambiente estuvo regular, cumplió sin destacar. (menciona: ruido)",3
+2025-11-07,neutral,ambiente,"La ambiente estuvo regular, cumplió sin destacar. (menciona: decoración)",3
+2025-11-06,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: fila),5
+2025-11-06,positivo,tiempo de espera,Me encantó la tiempo de espera; superó mis expectativas. (menciona: fila),4
+2025-11-06,positivo,ambiente,"La ambiente fue de primera, gran experiencia. (menciona: música)",4
+2025-11-08,negativo,tiempo de espera,"La tiempo de espera fue decepcionante, no lo recomendaría. (menciona: rápido)",2
+2025-11-19,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: presentación)",5
+2025-11-03,negativo,precio,"La precio dejó mucho que desear, no volvería. (menciona: calidad-precio)",1
+2025-11-20,neutral,servicio,"La servicio estuvo bien, nada fuera de lo normal. (menciona: atento)",3
+2025-11-03,negativo,comida,"La comida fue decepcionante, no lo recomendaría. (menciona: porciones)",2
+2025-11-01,positivo,limpieza,"La limpieza estuvo excelente, definitivamente volveré. (menciona: orden)",4
+2025-11-04,neutral,limpieza,"La limpieza estuvo bien, nada fuera de lo normal. (menciona: orden)",3
+2025-11-07,positivo,limpieza,Me encantó la limpieza; superó mis expectativas. (menciona: higiene),5
+2025-11-17,positivo,servicio,"La servicio fue de primera, gran experiencia. (menciona: atento)",5
+2025-11-03,positivo,precio,"Muy buena precio, vale totalmente la pena. (menciona: caro)",4
+2025-11-08,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: sabor)",3
+2025-11-02,negativo,limpieza,"La limpieza dejó mucho que desear, no volvería. (menciona: higiene)",2
+2025-11-16,neutral,comida,"La comida fue aceptable, podría mejorar. (menciona: presentación)",3
+2025-11-12,negativo,comida,"Muy mala comida, me fui con mal sabor de boca. (menciona: sabor)",1
+2025-11-04,positivo,servicio,"Muy buena servicio, vale totalmente la pena. (menciona: atento)",5
+2025-11-13,neutral,servicio,"La servicio estuvo regular, cumplió sin destacar. (menciona: rápido)",3
+2025-11-05,positivo,limpieza,"La limpieza fue de primera, gran experiencia. (menciona: mesas)",5
+2025-11-12,positivo,comida,"Muy buena comida, vale totalmente la pena. (menciona: sabor)",5
+2025-11-06,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: presentación)",3
+2025-11-06,positivo,ambiente,Me encantó la ambiente; superó mis expectativas. (menciona: decoración),5
+2025-11-04,positivo,limpieza,"Muy buena limpieza, vale totalmente la pena. (menciona: higiene)",4
+2025-11-08,positivo,limpieza,"La limpieza estuvo excelente, definitivamente volveré. (menciona: mesas)",5
+2025-11-06,neutral,servicio,"La servicio fue aceptable, podría mejorar. (menciona: atento)",3
+2025-11-08,positivo,limpieza,"Muy buena limpieza, vale totalmente la pena. (menciona: orden)",5
+2025-11-02,negativo,comida,"La comida dejó mucho que desear, no volvería. (menciona: porciones)",1
+2025-11-12,positivo,ambiente,"La ambiente estuvo excelente, definitivamente volveré. (menciona: ruido)",4
+2025-11-14,negativo,servicio,"La servicio dejó mucho que desear, no volvería. (menciona: amable)",2
+2025-11-06,positivo,tiempo de espera,"Muy buena tiempo de espera, vale totalmente la pena. (menciona: fila)",5
+2025-11-18,negativo,tiempo de espera,"La tiempo de espera dejó mucho que desear, no volvería. (menciona: tardado)",2
+2025-11-16,neutral,comida,"La comida estuvo bien, nada fuera de lo normal. (menciona: porciones)",3
+2025-11-08,positivo,limpieza,Me encantó la limpieza; superó mis expectativas. (menciona: orden),5
+2025-11-13,negativo,servicio,"Muy mala servicio, me fui con mal sabor de boca. (menciona: amable)",1
+2025-11-11,positivo,ambiente,"Muy buena ambiente, vale totalmente la pena. (menciona: decoración)",5
